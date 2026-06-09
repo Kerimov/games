@@ -1,4 +1,4 @@
-package com.vadim.retrophonegames.games.racing
+package com.vadim.classicmobilegames.games.racing
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.layout.fillMaxSize
@@ -13,9 +13,9 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.geometry.Size
-import com.vadim.retrophonegames.ui.components.DpadControls
-import com.vadim.retrophonegames.ui.components.PhoneFrame
-import com.vadim.retrophonegames.ui.theme.RetroColors
+import com.vadim.classicmobilegames.ui.components.DpadControls
+import com.vadim.classicmobilegames.ui.components.PhoneFrame
+import com.vadim.classicmobilegames.ui.theme.RetroColors
 import kotlinx.coroutines.delay
 import kotlin.random.Random
 

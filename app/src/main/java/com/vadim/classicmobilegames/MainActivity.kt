@@ -1,4 +1,4 @@
-package com.vadim.retrophonegames
+package com.vadim.classicmobilegames
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,13 +10,13 @@ import androidx.compose.ui.Modifier
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.vadim.retrophonegames.games.bantumi.BantumiGameScreen
-import com.vadim.retrophonegames.games.bounce.BounceGameScreen
-import com.vadim.retrophonegames.games.pairs.PairsGameScreen
-import com.vadim.retrophonegames.games.racing.RacingGameScreen
-import com.vadim.retrophonegames.games.snake.SnakeGameScreen
-import com.vadim.retrophonegames.games.spaceimpact.SpaceImpactGameScreen
-import com.vadim.retrophonegames.ui.GameMenuScreen
+import com.vadim.classicmobilegames.games.bantumi.BantumiGameScreen
+import com.vadim.classicmobilegames.games.bounce.BounceGameScreen
+import com.vadim.classicmobilegames.games.pairs.PairsGameScreen
+import com.vadim.classicmobilegames.games.racing.RacingGameScreen
+import com.vadim.classicmobilegames.games.snake.SnakeGameScreen
+import com.vadim.classicmobilegames.games.spaceimpact.SpaceImpactGameScreen
+import com.vadim.classicmobilegames.ui.GameMenuScreen
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

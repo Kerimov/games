@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.vadim.retrophonegames"
+    namespace = "com.vadim.classicmobilegames"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.vadim.retrophonegames"
+        applicationId = "com.vadim.classicmobilegames"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.vadim.retrophonegames.games.pairs
+package com.vadim.classicmobilegames.games.pairs
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.gestures.detectTapGestures
@@ -16,9 +16,9 @@ import androidx.compose.ui.geometry.Size
 import androidx.compose.ui.graphics.drawscope.Stroke
 import androidx.compose.ui.graphics.nativeCanvas
 import androidx.compose.ui.input.pointer.pointerInput
-import com.vadim.retrophonegames.ui.components.DpadControls
-import com.vadim.retrophonegames.ui.components.PhoneFrame
-import com.vadim.retrophonegames.ui.theme.RetroColors
+import com.vadim.classicmobilegames.ui.components.DpadControls
+import com.vadim.classicmobilegames.ui.components.PhoneFrame
+import com.vadim.classicmobilegames.ui.theme.RetroColors
 import kotlinx.coroutines.delay
 
 @Composable

@@ -1,4 +1,4 @@
-package com.vadim.retrophonegames.ui.components
+package com.vadim.classicmobilegames.ui.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -14,8 +14,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.unit.dp
-import com.vadim.retrophonegames.ui.theme.RetroColors
-import com.vadim.retrophonegames.ui.theme.RetroTypography
+import com.vadim.classicmobilegames.ui.theme.RetroColors
+import com.vadim.classicmobilegames.ui.theme.RetroTypography
 
 @Composable
 fun PhoneFrame(

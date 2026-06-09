@@ -1,4 +1,4 @@
-package com.vadim.retrophonegames.ui
+package com.vadim.classicmobilegames.ui
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -19,10 +19,10 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import com.vadim.retrophonegames.ui.components.DpadControls
-import com.vadim.retrophonegames.ui.components.PhoneFrame
-import com.vadim.retrophonegames.ui.theme.RetroColors
-import com.vadim.retrophonegames.ui.theme.RetroTypography
+import com.vadim.classicmobilegames.ui.components.DpadControls
+import com.vadim.classicmobilegames.ui.components.PhoneFrame
+import com.vadim.classicmobilegames.ui.theme.RetroColors
+import com.vadim.classicmobilegames.ui.theme.RetroTypography
 
 data class GameEntry(val id: String, val name: String, val description: String)
 

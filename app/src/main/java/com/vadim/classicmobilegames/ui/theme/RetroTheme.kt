@@ -1,4 +1,4 @@
-package com.vadim.retrophonegames.ui.theme
+package com.vadim.classicmobilegames.ui.theme
 
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.TextStyle

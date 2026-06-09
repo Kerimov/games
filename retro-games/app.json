@@ -8,10 +8,10 @@
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.vadim.retrophonegames"
+      "bundleIdentifier": "com.vadim.classicmobilegames"
     },
     "android": {
-      "package": "com.vadim.retrophonegames",
+      "package": "com.vadim.classicmobilegames",
       "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#1A3A1A",

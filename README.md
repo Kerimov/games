@@ -20,7 +20,7 @@
 | `app/` | Нативный Android (Kotlin + Compose) |
 | `retro-games/` | Expo / React Native (для EAS Build и Expo Go) |
 
-**Package name:** `com.vadim.retrophonegames`
+**Package name:** `com.vadim.classicmobilegames`
 
 ## Сборка нативного APK
 

@@ -1,4 +1,4 @@
-package com.vadim.retrophonegames.games.bantumi
+package com.vadim.classicmobilegames.games.bantumi
 
 import android.os.Handler
 import android.os.Looper
@@ -17,9 +17,9 @@ import androidx.compose.ui.geometry.Size
 import androidx.compose.ui.graphics.drawscope.DrawScope
 import androidx.compose.ui.graphics.nativeCanvas
 import androidx.compose.ui.input.pointer.pointerInput
-import com.vadim.retrophonegames.ui.components.DpadControls
-import com.vadim.retrophonegames.ui.components.PhoneFrame
-import com.vadim.retrophonegames.ui.theme.RetroColors
+import com.vadim.classicmobilegames.ui.components.DpadControls
+import com.vadim.classicmobilegames.ui.components.PhoneFrame
+import com.vadim.classicmobilegames.ui.theme.RetroColors
 
 @Composable
 fun BantumiGameScreen(onBack: () -> Unit) {
