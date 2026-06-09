@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RetroGames" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#1a3a1a</item>
+        <item name="android:navigationBarColor">#1a3a1a</item>
+        <item name="android:windowBackground">#1a3a1a</item>
+    </style>
+</resources>
