@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e920ac07-9edc-4269-87bc-83d5dd7069fd"
+      }
+    },
+    "owner": "kerimov.vadim"
   }
 }
