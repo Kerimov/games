@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Retro Games",
-    "slug": "retro-phone-games",
+    "slug": "retro-games",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
